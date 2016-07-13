@@ -40,3 +40,5 @@ GraphQL schema is generated. It will return an object of the shape `{schema: mon
 
 Each GraphQL field definition can optionally accept a `mongo` property, which, if its type is `function` will be defined
 as an instance method on the schema, otherwise it will be treated as a mongoose field config.
+
+### Test
